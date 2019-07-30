@@ -11,6 +11,8 @@ namespace AzureBlobs.Shared.Tests
     [TestClass()]
     public class SerializerTests
     {
+        // sample serialized output
+        // resultJson = "{\"Id\":\"HS-2019.07.29.06.51.28.568649\",\"LeftCornerPosition\":{\"X\":110,\"Y\":201,\"Z\":117},\"Tracks\":[{\"Id\":\"T01\"},{\"Id\":\"T04\"}]}"
         [TestMethod()]
         public void SerializeAndDeserializeObject_WhenObjectHasDataContractAttributes_ShouldGetTheObjectBack()
         {

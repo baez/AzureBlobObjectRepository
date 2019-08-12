@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\AzureBlobsCore\AzureBlobsCore.csproj" />
+    <ProjectReference Include="..\..\AzureBlobsCore\Repositories.csproj" />
     <ProjectReference Include="..\SharedModels\SharedModels.csproj" />
   </ItemGroup>
 

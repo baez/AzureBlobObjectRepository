@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "..\UnitTests\UnitTests.csproj", "{C75BFDD7-9039-4C7D-88DB-DE9A09B827E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBlobsCore", "..\AzureBlobsCore\AzureBlobsCore.csproj", "{C5C21216-9430-46D5-9D8B-F4FE06C1A6BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repositories", "..\AzureBlobsCore\Repositories.csproj", "{C5C21216-9430-46D5-9D8B-F4FE06C1A6BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedModels", "SharedModels\SharedModels.csproj", "{680CCB8F-AF09-450E-9BC7-420213F31AC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedModels", "SharedModels\SharedModels.csproj", "{680CCB8F-AF09-450E-9BC7-420213F31AC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{44E8C72F-A778-4DAF-AA5D-C17B065511A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{44E8C72F-A778-4DAF-AA5D-C17B065511A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

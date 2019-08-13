@@ -75,9 +75,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AzureBlobsCore\AzureBlobsCore.csproj">
+    <ProjectReference Include="..\AzureBlobsCore\Repositories.csproj">
       <Project>{c5c21216-9430-46d5-9d8b-f4fe06c1a6bd}</Project>
-      <Name>AzureBlobsCore</Name>
+      <Name>Repositories</Name>
     </ProjectReference>
     <ProjectReference Include="..\AzureBlobs\SharedModels\SharedModels.csproj">
       <Project>{680ccb8f-af09-450e-9bc7-420213f31ac5}</Project>

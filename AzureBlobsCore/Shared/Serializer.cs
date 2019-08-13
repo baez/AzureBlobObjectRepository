@@ -31,6 +31,5 @@ namespace AzureBlobsCore.Shared
 
             return deserializedObject;
         }
-
     }
 }

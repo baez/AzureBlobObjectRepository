@@ -7,7 +7,6 @@ namespace UnitTests.TestHelpers
 {
     public static class GetMock
     {
-
         public static TrackContainer TrackContainer()
         {
             return new TrackContainer()

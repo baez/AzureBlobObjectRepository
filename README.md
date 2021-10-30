@@ -1,4 +1,4 @@
-# AzureBlobObjectrepository
+# AzureBlobObjectRepository
 A repository to store serialized objects in Azure Blob Storage.
 Technologies used: C#, Asp.Net Core, .Net Standard and Azure Blob Storage
 

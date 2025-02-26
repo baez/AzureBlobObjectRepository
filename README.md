@@ -62,7 +62,7 @@ The solution is designed to store serialized objects in Azure Blob Storage. This
 
 ## License
 
-This project is licensed under the Apache License 2.0 – feel free to use and modify it.
+This project is licensed under the Apache License 2.0 
 
 ---
 
